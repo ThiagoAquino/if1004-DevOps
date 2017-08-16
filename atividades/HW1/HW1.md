@@ -1,16 +1,16 @@
 ## Complete slack profile
 
-![Slack] (https://github.com/ThiagoAquino/if1004-DevOps/blob/master/atividades/HW1/perfil-Slack.png)
+![] (https://github.com/ThiagoAquino/if1004-DevOps/blob/master/atividades/HW1/perfil-Slack.png)
 
 ## Screenshot of completed git tutorial
 
-![Github] (https://github.com/ThiagoAquino/if1004-DevOps/blob/master/atividades/HW1/learnGit1.png)
-![Github] (https://github.com/ThiagoAquino/if1004-DevOps/blob/master/atividades/HW1/learnGit2.png)
+![] (https://github.com/ThiagoAquino/if1004-DevOps/blob/master/atividades/HW1/learnGit1.png)
+![] (https://github.com/ThiagoAquino/if1004-DevOps/blob/master/atividades/HW1/learnGit2.png)
 
 ## Hooks and Screencast
 
 .git/hooks/post-commit
-![Github] (https://github.com/ThiagoAquino/if1004-DevOps/blob/master/atividades/HW1/HW1.gif)
+![] (https://github.com/ThiagoAquino/if1004-DevOps/blob/master/atividades/HW1/HW1.gif)
 
 ## Concepts
 
