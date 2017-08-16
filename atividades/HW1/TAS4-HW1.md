@@ -1,6 +1,6 @@
 ## Complete slack profile
 
-![] (https://raw.githubusercontent.com/ThiagoAquino/if1004-DevOps/master/atividades/HW1/perfil-Slack.png)
+![] (https://github.com/ThiagoAquino/if1004-DevOps/master/atividades/HW1/perfil-Slack.png)
 
 ## Screenshot of completed git tutorial
 
