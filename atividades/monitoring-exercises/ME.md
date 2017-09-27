@@ -1,7 +1,7 @@
 # Monitoring Exercises #
 <br>
 
-[1](https://github.com/ThiagoAquino/if1004-DevOps/blob/master/atividades/monitoring-exercises/1.png)
+![1](https://github.com/ThiagoAquino/if1004-DevOps/blob/master/atividades/monitoring-exercises/1.png)
 <br>
 <h2>2<h2>
 ![2](https://github.com/ThiagoAquino/if1004-DevOps/blob/master/atividades/monitoring-exercises/2.png)
